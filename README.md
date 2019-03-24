@@ -1,1 +1,1 @@
-# XenogearsTranslationKOR
+# 제노기어스 한글화
